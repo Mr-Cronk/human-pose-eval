@@ -1,4 +1,4 @@
-# Human Pose Benchmark
+# Human Pose
 
 This repository contains evaluation scripts for human pose detection models on multiple datasets and short video clips.
 
